@@ -1,3 +1,3 @@
-const a = "Estamos en la rama master con los cambios de la rama login!!!!";
+const a = "Conflicto resuelto";
 
 console.log(a);
