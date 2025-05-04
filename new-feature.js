@@ -1,3 +1,9 @@
 const b = "Holam aqui hay un error";
 
-console.log(a);
+while (true) {
+  console.log("bucle infitino");
+}
+
+// more changes 
+
+console.log(b); 
