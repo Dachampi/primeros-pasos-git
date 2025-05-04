@@ -1,3 +1,3 @@
-const a = "Hola mundo!";
+const a = "Hola";
 
 console.log(a);
