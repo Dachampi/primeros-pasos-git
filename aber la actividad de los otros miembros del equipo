@@ -1,0 +1,105 @@
+[33mcommit 871568629224dbe1aeb5901747f8ca85d4fcd7ae[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: e52aaf1 978e3bc
+Author: Dachampi <77130821+Dachampi@users.noreply.github.com>
+Date:   Sun May 4 00:28:21 2025 -0500
+
+    Merge pull request #3 from Dachampi/fc
+    
+    readme update ir
+
+[33mcommit 978e3bc13868346b561cde3f2516e17fcb8f3d77[m[33m ([m[1;31morigin/fc[m[33m, [m[1;32mfc[m[33m)[m
+Author: Jean Pierre <jeanpierreh11@gmail.com>
+Date:   Sun May 4 00:27:21 2025 -0500
+
+    readme update ir
+
+[33mcommit e52aaf1b6e1a99b53ff3dca3efb72966c2172ab5[m
+Merge: fc6fdc1 ed2ce6d
+Author: Dachampi <77130821+Dachampi@users.noreply.github.com>
+Date:   Sat May 3 22:53:33 2025 -0500
+
+    Merge pull request #2 from Dachampi/fc
+    
+    Fc
+
+[33mcommit ed2ce6d3735604922a77707fa9f2dcecb23f4305[m
+Merge: 440b48d fc6fdc1
+Author: Jean Pierre <jeanpierreh11@gmail.com>
+Date:   Sat May 3 22:52:04 2025 -0500
+
+    Merge branch 'master' of https://github.com/Dachampi/primeros-pasos-git into fc
+
+[33mcommit 440b48df5ca1c382eb4d255b88f1ee20139bc39a[m
+Author: Jean Pierre <jeanpierreh11@gmail.com>
+Date:   Sat May 3 22:48:56 2025 -0500
+
+    a changed
+
+[33mcommit fc6fdc1ed8bf5f278ac1e7931b380746f24470e5[m
+Author: Dachampi <77130821+Dachampi@users.noreply.github.com>
+Date:   Sat May 3 22:48:24 2025 -0500
+
+    Update main.js
+
+[33mcommit c40c8b63798157fe36be0d0195d4f06dee7027a4[m
+Merge: 0ad4b71 d94f0bb
+Author: Dachampi <77130821+Dachampi@users.noreply.github.com>
+Date:   Sat May 3 20:13:10 2025 -0500
+
+    Merge pull request #1 from Dachampi/new-feature
+    
+    add new feature
+
+[33mcommit d94f0bbd9f6c0b41d464e5f55ea73bc61859baed[m[33m ([m[1;31morigin/new-feature[m[33m, [m[1;32mnew-feature[m[33m)[m
+Author: Jean Pierre <jeanpierreh11@gmail.com>
+Date:   Sat May 3 20:05:52 2025 -0500
+
+    add new feature
+
+[33mcommit 0ad4b7196639bc33945a2c4261def3ac4732acd5[m
+Author: Jean Pierre <jeanpierreh11@gmail.com>
+Date:   Sat May 3 19:57:41 2025 -0500
+
+    se hizo merge de loging a master
+
+[33mcommit 6a86f80a4432dba674b1bae758c66fc9f9ddb0d9[m[33m ([m[1;32mlogin[m[33m)[m
+Author: Jean Pierre <jeanpierreh11@gmail.com>
+Date:   Sat May 3 19:42:28 2025 -0500
+
+    Hola mundo changed to adios
+
+[33mcommit c56ec7031e267cf47b724adefefb5d056feb1dba[m[33m ([m[1;31morigin/login[m[33m)[m
+Author: Jean Pierre <jeanpierreh11@gmail.com>
+Date:   Sat May 3 19:01:28 2025 -0500
+
+    loging completed
+
+[33mcommit c9cfd578977e0e44604ca34cd935f5184e4291e7[m
+Author: Dachampi <77130821+Dachampi@users.noreply.github.com>
+Date:   Sat May 3 18:50:39 2025 -0500
+
+    Create README.md
+
+[33mcommit afc7e95986ca30d608378b665258186be934a560[m
+Author: Jean Pierre <jeanpierreh11@gmail.com>
+Date:   Sat May 3 18:28:51 2025 -0500
+
+    Adios changed to Hola Mundogit add .
+
+[33mcommit a6919e15a43af8af4341be0a618bf2bcc346ec45[m
+Author: Jean Pierre <jeanpierreh11@gmail.com>
+Date:   Sat May 3 18:16:04 2025 -0500
+
+    Modificacion 1 en main
+
+[33mcommit 114f29137b880fbb2d3657bec000d54efbf9802a[m
+Author: Dachampi <jeanpierreh11@gmail.com>
+Date:   Fri May 2 23:26:37 2025 -0500
+
+    primera modificacion
+
+[33mcommit e18a8f1e2cf0ff2bbb33d37fdcc1969c9e1ed98d[m
+Author: Dachampi <jeanpierreh11@gmail.com>
+Date:   Fri May 2 23:25:01 2025 -0500
+
+    primer comentario
