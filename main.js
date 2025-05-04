@@ -1,3 +1,3 @@
-const a = "Hola mundo!!!!";
+const a = "Conflicto resuelto";
 
 console.log(a);
