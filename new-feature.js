@@ -1,3 +1,1 @@
-const b = "Holam aqui hay un error";
-
-console.log(b);
+// logic for the new feature
