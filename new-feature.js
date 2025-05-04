@@ -1,1 +1,3 @@
-// logic for the new feature
+const b = "Holam aqui hay un error";
+
+console.log(a);
